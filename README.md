@@ -23,3 +23,6 @@ Your app is ready to be deployed!
 
 Launches the application test runner.
 Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+
+### Imagem de exemplo:
+<img src='https://github.com/Victor-Edward/Connect-Four-Game/blob/main/images/ConnectFour%20Example.png?raw=true' alt='example.img' style='width: 720px;'/>
